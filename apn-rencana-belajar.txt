@@ -3,6 +3,7 @@ RENCANA BELAJAR APN
 - Javascript
   * ES6
   * Framework Javascript
+- Struktut data dasar
 - PHP Framewoks
 - Design
 - Animation
