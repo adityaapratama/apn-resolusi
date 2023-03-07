@@ -1,6 +1,8 @@
 RENCANA BELAJAR APN
 
 - Javascript
+  * ES6
+  * Framework Javascript
 - PHP Framewoks
 - Design
 - Animation
